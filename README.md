@@ -6,7 +6,8 @@ The code and pretrained models for our paper "MADiff: Motion-Aware Mamba Diffusi
 
 Your patience is appreciated :)
 
-If you find our work inspiring or helpful to your research work, please cite this paper as 
+If you find our work inspiring or helpful to your research work, please cite this paper as   
+
 ``bash
 @misc{ma2024madiff,
       title={MADiff: Motion-Aware Mamba Diffusion Models for Hand Trajectory Prediction on Egocentric Videos}, 
