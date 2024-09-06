@@ -8,7 +8,7 @@ Your patience is appreciated :)
 
 If you find our work inspiring or helpful to your research work, please cite this paper as   
 
-```bash
+```
 @misc{ma2024madiff,
       title={MADiff: Motion-Aware Mamba Diffusion Models for Hand Trajectory Prediction on Egocentric Videos}, 
       author={Junyi Ma and Xieyuanli Chen and Wentao Bao and Jingyi Xu and Hesheng Wang},
