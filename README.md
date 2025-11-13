@@ -4,7 +4,7 @@
 
 Please refer to the [arXiv version](https://arxiv.org/abs/2409.02638) and our [project page](https://irmvlab.github.io/madiff.github.io/) for more details.
 
-The 3D enhanced version of MADiff has been released [here](https://github.com/IRMVLab/MMTwin). Please feel free to use it!
+The 3D enhanced version of MADiff has been released [here](https://github.com/IRMVLab/MMTwin), where you can simply set it to 2D spaces to reproduce MADiff. Please feel free to use it!
 
 If you find our work inspiring or helpful to your research work, please cite this paper as   
 
