@@ -1,0 +1,15 @@
+DATA:
+  data_path: /data
+  dataset: EgoPAT3D-postproc
+  max_frames: 40
+  load_all: true
+MODEL:
+  target: 2d
+  modalities: ["loc"]
+  use_odom: false
+  centralize: true
+TRAIN:
+  batch_size: 64
+TEST:
+  batch_size: 64
+output_dir: ./output

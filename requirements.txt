@@ -1,0 +1,7 @@
+torch>=2.0.0
+numpy>=1.21
+PyYAML>=6.0
+opencv-python>=4.5
+tqdm>=4.60
+matplotlib>=3.5
+imageio>=2.20

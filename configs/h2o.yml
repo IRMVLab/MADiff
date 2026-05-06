@@ -1,0 +1,16 @@
+DATA:
+  data_path: /data
+  dataset: h2o_dataset
+  max_frames: 64
+  load_all: true
+MODEL:
+  target: 2d
+  modalities: ["loc"]
+  use_global: false
+  centralize: true
+  normalize: true
+TRAIN:
+  batch_size: 64
+TEST:
+  batch_size: 64
+output_dir: ./output
