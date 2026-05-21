@@ -28,7 +28,7 @@ The default scripts run the H2O backend.
 - H2O default data root: `/data`
 - EgoPAT3D default data root: `/data`
 - Download the H2O-PT and EgoPAT3D-DT datasets from the dataset instructions in [oppo-us-research/USST](https://github.com/oppo-us-research/USST).
-- Download the MADiff pretrained weights from [SJTU Pan](https://pan.sjtu.edu.cn/web/share/593c95024bbff82cd8d1547157382328).
+- Download the preprocessed files and MADiff pretrained weights from [SJTU Pan](https://pan.sjtu.edu.cn/web/share/593c95024bbff82cd8d1547157382328).
 - Evaluation checkpoints expected by `run_val_traj.py`:
   - H2O: `./diffip_weights/checkpoint_h2o.pth.tar`
   - EgoPAT3D: `./diffip_weights/checkpoint_egopat3d.pth.tar`
