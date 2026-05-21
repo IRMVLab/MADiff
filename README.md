@@ -97,7 +97,7 @@ python traineval.py --help
 
 ## Citation
 
-If this code or the MADiff method is useful for your work, cite the original paper:
+If this work is useful for your work, kindly cite our paper:
 
 ```bibtex
 @article{ma2024madiff,
