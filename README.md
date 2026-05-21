@@ -1,4 +1,4 @@
-# MADiff: Motion-Aware Mamba Diffusion Models for Hand Trajectory Prediction on Egocentric Videos
+# [T-PAMI'25] MADiff: Motion-Aware Mamba Diffusion Models for Hand Trajectory Prediction on Egocentric Videos
 
 [![Paper](https://img.shields.io/badge/Paper-arXiv%3A2409.02638-b31b1b)](https://arxiv.org/abs/2409.02638)
 [![Project](https://img.shields.io/badge/Project-Page-blue)](https://irmvlab.github.io/madiff.github.io/)
@@ -107,10 +107,6 @@ If this code or the MADiff method is useful for your work, cite the original pap
   year={2024}
 }
 ```
-
-## Note
-
-This initial release can reproduce the paper-level performance, but the codebase is still not as polished as we would like. We are currently focusing most of our time on new research work, so we may not be able to further clean up and reorganize the repository in the near term. We will polish the code as soon as time permits.
 
 ## License
 
