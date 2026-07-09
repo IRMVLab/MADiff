@@ -101,6 +101,8 @@ python traineval.py --help
 
 MADiff can improve the performance of robot imitation learning. Feel free to try integrating the predicted motion features into ACT!
 
+The tutorial of MADiff-enhanced IL is coming soon. Your patience is appreciated!
+
 ## Citation
 
 If this work is useful for your work, kindly cite our paper:
