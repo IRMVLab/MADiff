@@ -95,6 +95,14 @@ Show available options:
 python traineval.py --help
 ```
 
+## MADiff for Robotics
+
+<p align="center">
+  <img src="./madiff_for_act_compress.gif" alt="MADiff for ACT" width="50%">
+</p>
+
+MADiff can improve the performance of robot imitation learning. Feel free to try integrating it into ACT!
+
 ## Citation
 
 If this work is useful for your work, kindly cite our paper:
