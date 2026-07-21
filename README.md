@@ -101,7 +101,7 @@ python traineval.py --help
 
 MADiff can improve the performance of robot imitation learning. See **[docs/MADiff_for_Robotics.md](docs/MADiff_for_Robotics.md)** for a step-by-step tutorial on how to inject it into an ACT policy as a conditioning token (worked example on an AgiBot G01 arm).
 
-We are grateful to [Xiayang Jin]() for helping make this possible.
+We are grateful to [Xiayang Jin](ausummer.dev) for helping make this possible.
 
 ## Citation
 
