@@ -99,9 +99,9 @@ python traineval.py --help
 
 <img src="./madiff_for_act_compress.gif" alt="MADiff for ACT" width="50%">
 
-MADiff can improve the performance of robot imitation learning. Feel free to try integrating the predicted motion features into ACT!
+MADiff can improve the performance of robot imitation learning. See **[docs/MADiff_for_Robotics.md](docs/MADiff_for_Robotics.md)** for a step-by-step tutorial on how to inject it into an ACT policy as a conditioning token (worked example on an AgiBot G01 arm).
 
-See **[docs/MADiff_for_Robotics.md](docs/MADiff_for_Robotics.md)** for a step-by-step tutorial on how to inject it into an ACT policy as a conditioning token (worked example on an AgiBot G01 arm).
+We are grateful to [Xiayang Jin]() for helping make this possible.
 
 ## Citation
 
